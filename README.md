@@ -1,4 +1,4 @@
-## Istiak Rahman 👋
+## Hello there 👋
 
 - Computer Engineering student
 - Interests in Data Science and Software Development
